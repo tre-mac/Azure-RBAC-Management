@@ -84,5 +84,4 @@ To wrap up, I checked the **Activity Log** for the management group to confirm m
 
 ---
 
-## 📁 Project Structure
 
